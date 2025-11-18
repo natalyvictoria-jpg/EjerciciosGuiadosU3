@@ -6,7 +6,7 @@
 
 📘 **Materia:** Estructura de Datos  
 👩‍💻❤️ **Nombre:** Nataly Victoria Gonzalez Aviles  
-🏫 **Proyecto:** Implementación de estructuras enlazadas en Java con NetBeans  
+🏫 **Proyecto:** Implementación de una ventana con Swing en Java con NetBeans  
 📅 **Unidad:** 3 
 ⚙️ **Lenguaje:** Java  
 🧠 **Propósito:** Desarrollar y aplicar una ventana basica Swing  
