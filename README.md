@@ -15,3 +15,9 @@ Además, comprender el funcionamiento, mediante su implementación y uso en Java
 
 # Actvidad 1 - Ejercicios Guiados (Ventana Swing)
 ## 🧾 Actividades de Swing
+
+| Documento | Enlace |
+| ---------- | ------- |
+| Ejercicio y evidencias de la ventana Swing | [📘 Ver PDF](EjercicioGuiado.pdf) |
+
+---
