@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721292.png" alt="Programación en Java" width="180">
-</p>
+<h1 align="center">🧠📊 Estructuras de Datos</h1>
+
 
 ## GTID0141
 
