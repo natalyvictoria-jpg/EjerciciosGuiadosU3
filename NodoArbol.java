@@ -1,12 +1,18 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+/**
+ * MATERIA: Estructura de Datos - Unidad 3
+ * NOMBRE: NATALY VICTORIA GONZALEZ AVILES
+ * FECHA: Martes 25 de Noviembre de 2025
+ * GRUPO: GTID0141
+ *
+ * Clase NodoArbol:
+ * Representa la unidad básica de un Árbol Binario. 
+ * Cada nodo contiene un dato entero y referencias a sus hijos izquierdo y derecho.
  */
 package arbolbinario;
 
 /**
  *
- * @author nataly
+ * @author victoria
  */
 public class NodoArbol {
         private int dato;  
@@ -34,3 +40,4 @@ public class NodoArbol {
         this.dato = nuevoDato; 
     } 
 }
+
