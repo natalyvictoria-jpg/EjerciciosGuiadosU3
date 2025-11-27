@@ -55,9 +55,11 @@ Además, comprender el funcionamiento, mediante su implementación y uso en Java
 
 | Archivo | Ver Código |
 |---------|------------|
-| NodoArbol.java | [📄 Ver código](codigo/NodoArbol.java) |
-| ArbolBinario.java | [📄 Ver código](codigo/ArbolBinario.java) |
+| NodoArbol.java | [📄 Ver código] [NodoArbol.java](NodoArbol.java) |
+| ArbolBinario.java | [📄 Ver código] [ArbolBinario.java](ArbolBinario.java) |
 | PruebaArbol.java | [📄 Ver código] [PruebaArbol.java](PruebaArbol.java) |
+
+---
 
 ![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosGuiadosU3/main/Salida.jpg "Ejemplo de salida del programa")
 
