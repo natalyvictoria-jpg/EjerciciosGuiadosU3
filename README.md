@@ -59,5 +59,8 @@ Además, comprender el funcionamiento, mediante su implementación y uso en Java
 | ArbolBinario.java | [📄 Ver código](codigo/ArbolBinario.java) |
 | PruebaArbol.java | [📄 Ver código](codigo/PruebaArbol.java) |
 
+![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosGuiadosU3/main/Salida.jpg "Ejemplo de salida del programa")
+
+
 
 
