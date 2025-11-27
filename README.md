@@ -49,7 +49,11 @@ Además, comprender el funcionamiento, mediante su implementación y uso en Java
 
 ---
 
-# Ejercicio Guiado - ARBOL BINARIO 🌳
+# ARBOL BINARIO 🌳
+<p align="center">
+  <img src="https://img.shields.io/badge/🌳%20Ejercicio%20Guiado%20-%20Árbol%20Binario-red?style=for-the-badge" alt="Árbol Binario Banner">
+</p>
+
 
 ### 📂 Código de Árbol Binario el cual fue realizado en la clase de dia Martes 25 de Diciembre.
 
