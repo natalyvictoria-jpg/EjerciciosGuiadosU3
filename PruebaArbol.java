@@ -1,14 +1,17 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package arbolbinario;
-
 /**
+ * MATERIA: Estructura de Datos - Unidad 3
+ * NOMBRE: NATALY VICTORIA GONZALEZ AVILES
+ * FECHA: Martes 25 de Noviembre de 2025
+ * GRUPO: GTID0141
  *
- * @author edgar
+ * Clase PruebaArbol:
+ * Clase principal que prueba el funcionamiento del Árbol Binario.
+ * Inserta valores de ejemplo y realiza el recorrido Inorden
+ * para comprobar que los datos quedan ordenados.
  */
+
 public class PruebaArbol {
+
     public static void main(String[] args) {
 
         ArbolBinario arbol = new ArbolBinario();
@@ -21,8 +24,8 @@ public class PruebaArbol {
         arbol.insertar(20);
         arbol.insertar(40);
 
-        arbol.recorrerInorden(); 
+        // Muestra los valores ordenados
+        arbol.recorrerInorden();
         // Salida esperada: 20 30 40 50 70
     }
 }
-
