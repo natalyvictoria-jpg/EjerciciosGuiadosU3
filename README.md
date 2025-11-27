@@ -49,4 +49,15 @@ Además, comprender el funcionamiento, mediante su implementación y uso en Java
 
 ---
 
+# Ejercicio Guiado - ARBOL BINARIO 🌳
+
+### 📂 Código de Árbol Binario el cual fue realizado en la clase de dia Martes 25 de Diciembre.
+
+| Archivo | Ver Código |
+|---------|------------|
+| NodoArbol.java | [📄 Ver código](codigo/NodoArbol.java) |
+| ArbolBinario.java | [📄 Ver código](codigo/ArbolBinario.java) |
+| PruebaArbol.java | [📄 Ver código](codigo/PruebaArbol.java) |
+
+
 
