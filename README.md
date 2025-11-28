@@ -70,7 +70,7 @@ Además, comprender el funcionamiento, mediante su implementación y uso en Java
 ---
 | Documento | Enlace |
 | ---------- | ------- |
-| Ejercicio Guiado y evidencias de la actividad realizada en clase el dia Martes 25 de Noviembre | [📘 Ver PDF](ÁrbolBinario.pdf) |
+| Ejercicio Guiado y evidencias de la actividad realizada en clase el dia Martes 25 de Noviembre | [📘 Ver PDF](ArbolBinario.pdf) |
 
 
 
