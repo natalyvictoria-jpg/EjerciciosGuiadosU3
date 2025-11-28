@@ -67,6 +67,11 @@ Además, comprender el funcionamiento, mediante su implementación y uso en Java
 
 ![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosGuiadosU3/main/Salida.jpg "Ejemplo de salida del programa")
 
+---
+| Documento | Enlace |
+| ---------- | ------- |
+| Ejercicio Guiado y evidencias de la actividad realizada en clase el dia Martes 25 de Noviembre | [📘 Ver PDF](ArbolBinario.pdf) |
+
 
 
 
