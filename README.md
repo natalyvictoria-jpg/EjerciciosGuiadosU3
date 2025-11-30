@@ -82,6 +82,6 @@ Además, comprender el funcionamiento, mediante su implementación y uso en Java
 
 | Documento | Enlace |
 | ---------- | ------- |
-| Ejercicio Guiado de evidencias de la actividad de Nearpods de los temas de: Conjuntos y Diccionarios | [📘 Ver PDF](Neardpods.pdf) |
+| Ejercicio Guiado de evidencias de la actividad de Nearpods de los temas de: Conjuntos y Diccionarios | [📘 Ver PDF](Nearpods.pdf) |
 
 
