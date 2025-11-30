@@ -73,5 +73,15 @@ Además, comprender el funcionamiento, mediante su implementación y uso en Java
 | Ejercicio Guiado y evidencias de la actividad realizada en clase el dia Martes 25 de Noviembre | [📘 Ver PDF](ArbolBinario.pdf) |
 
 
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%9A%20CONJUNTOS%20Y%20DICCIONARIOS-NEARPODS-pink?style=for-the-badge" alt="Conjuntos y Diccionarios - Nearpods Banner">
+</p>
+
+
+| Documento | Enlace |
+| ---------- | ------- |
+| Ejercicio Guiado de evidencias de la actividad de Nearpods de los temas de: Conjuntos y Diccionarios | [📘 Ver PDF](Neardpods.pdf) |
 
 
