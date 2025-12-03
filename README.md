@@ -89,3 +89,14 @@ Además, comprender el funcionamiento, mediante su implementación y uso en Java
 | Documento | Enlace |
 | ---------- | ------- |
 | Ejercicio Guiado de evidencias de la actividad de Nearpods de los temas de: Diccionarios | [📘 Ver PDF](Diccionarios.pdf) |
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%9A%20MAPA%20MENTAL-blue?style=for-the-badge" alt="Mapa Mental Banner">
+</p>
+
+
+| Documento | Enlace |
+| ---------- | ------- |
+| Ejercicio Guiado de evidencias de la actividad de Nearpods de los temas de: Diccionarios | [📘 Ver PDF](MapaMental-EstructuradeDatos.pdf) |
