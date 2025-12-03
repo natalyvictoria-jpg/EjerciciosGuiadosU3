@@ -99,4 +99,4 @@ Además, comprender el funcionamiento, mediante su implementación y uso en Java
 
 | Documento | Enlace |
 | ---------- | ------- |
-| Ejercicio Guiado de evidencias de la actividad de Nearpods de los temas de: Diccionarios | [📘 Ver PDF](MapaMental-EstructuradeDatos.pdf) |
+| Ejercicio Guiado de evidencias de la actividad de Mapa Mental acerca de todo lo visto en el cuatrimestre de Estructura de Datos. | [📘 Ver PDF](MapaMental-EstructuradeDatos.pdf) |
